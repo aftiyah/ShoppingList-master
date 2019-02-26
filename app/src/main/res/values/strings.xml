@@ -54,4 +54,6 @@
     <string name="about_author">&lt;h3&gt;Author&lt;/h3&gt; Wolfgang Popp</string>
     <string name="about_contributors">&lt;h3&gt;Contributors&lt;/h3&gt; &#8226; &lt;b&gt;Pierre Rudloff&lt;/b&gt; (French translation)&lt;br/&gt; &#8226; &lt;b&gt;unbranched&lt;/b&gt; (Italian translation)&lt;br/&gt;</string>
     <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
 </resources>
